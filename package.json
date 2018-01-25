@@ -1,7 +1,7 @@
 {
-  "name": "core-util-is",
-  "version": "1.0.2",
-  "description": "The `util.is*` functions introduced in Node v0.12.",
+  "name": "@mjmasn/core-util-is",
+  "version": "1.0.3",
+  "description": "The `util.is*` functions introduced in Node v0.12. Now with React Native support.",
   "main": "lib/util.js",
   "repository": {
     "type": "git",
